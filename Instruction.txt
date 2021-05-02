@@ -1,0 +1,10 @@
+#Instructions
+
+Download  LWC_Term_Paper-11840090.zip  folder.
+
+Read  ReadMe.md  and using given instruction youc can execute codes.
+
+term_paper.pdf is the main pdf of my term paper.
+
+Latex file is also given.
+
